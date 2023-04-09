@@ -7,6 +7,7 @@ name = "pypi"
 pipenv = "*"
 django = "*"
 mysqlclient = "*"
+djangorestframework = "*"
 
 [dev-packages]
 

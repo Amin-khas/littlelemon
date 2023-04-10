@@ -8,6 +8,7 @@ pipenv = "*"
 django = "*"
 mysqlclient = "*"
 djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
